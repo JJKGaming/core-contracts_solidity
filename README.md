@@ -16,7 +16,7 @@ Active development occurs in this repository, which means some contracts in it m
 - [`v2-deployments`](./pkg/deployments): addresses and ABIs of all Symmetric ad JJK Gaming contracts, for mainnet and various test networks.
 - [`v2-interfaces`](./pkg/interfaces): Solidity interfaces for all contracts.
 - [`v2-vault`](./pkg/vault): the [`Vault`](./pkg/vault/contracts/Vault.sol) contract and all core interfaces, including [`IVault`](./pkg/vault/contracts/interfaces/IVault.sol) and the Pool interfaces: [`IBasePool`](./pkg/vault/contracts/interfaces/IBasePool.sol), [`IGeneralPool`](./pkg/vault/contracts/interfaces/IGeneralPool.sol) and [`IMinimalSwapInfoPool`](./pkg/vault/contracts/interfaces/IMinimalSwapInfoPool.sol).
-- [`v2-pool-gaming`](./pkg/pool-gaming): the [`GamingPool`](./pkg/pool-gaming/contracts/GamingPool.sol),
+- [`BaseGamingPool`](./pkg/pool-gaming): the [`GamingPool`](./pkg/pool-gaming/contracts/BaseGamingPool.sol),
 - [`v2-pool-lottery`](./pkg/pool-gaming): the [`GamingPool`](./pkg/pool-gaming/contracts/LotteryPool.sol),
 - [`v2-pool-dice`](./pkg/pool-gaming): the [`GamingPool`](./pkg/pool-gaming/contracts/DicePool.sol),
 - [`v2-pool-eSport`](./pkg/pool-gaming): the [`GamingPool`](./pkg/pool-gaming/contracts/eSportPool.sol), 

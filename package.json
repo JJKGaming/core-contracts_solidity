@@ -1,17 +1,18 @@
 {
-  "name": "@balancer-labs/v2-monorepo",
+  "name": "@jjkgaming/core-contracts_solidity",
   "private": true,
-  "description": "Balancer v2 Monorepo",
+  "description": "Core contracts for JJK Gaming, including Symmetric contracts",
   "license": "GPL-3.0-only",
-  "homepage": "https://github.com/balancer-labs/balancer-v2-monorepo#readme",
-  "repository": "git@github.com:balancer-labs/balancer-v2-monorepo.git",
+  "homepage": "https://github.com/JJKGaming/core-contracts_solidity/blob/master/README.md",
+  "repository": "git@github.com:JJKGaming/core-contracts_solidity.git",
   "bugs": {
-    "url": "https://github.com/balancer-labs/balancer-v2-monorepo/issues"
+    "url": "https://github.com/JJKGaming/core-contracts_solidity/issues"
   },
   "engines": {
     "node": ">=12.10"
   },
   "contributors": [
+    "TheNewAutonomy <darren.op@jjkgaming.com>",
     "Daniel Fernandez <daniel@balancer.finance>",
     "Facu Spagnuolo <facu@balancer.finance>",
     "Fernando Martinelli <fernando@balancer.finance>",

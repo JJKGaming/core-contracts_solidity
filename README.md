@@ -1,8 +1,8 @@
-# <img src="logo.png" alt="JJK Gaming" height="128px">
+# <img src="logo.png" alt="JK Gaming" height="128px">
 
-# JJK Gaming 
+# JK Gaming 
 
-This repository contains the Symmetric V2 core smart contract set written in Solidity along with the JJK Gaming templates. JJK Gaming provides gaming brings together liquidity providers and gaming groups to offer the best gaming services with the biggest jackpots to players.
+This repository contains the Symmetric V2 core smart contract set written in Solidity along with the JK Gaming templates. JK Gaming brings together liquidity providers and gaming groups to offer the best gaming services with the biggest jackpots to players. This project is an experimental look at adding the JK Gaming system to the Solidity AMM and DEX project.
 
 
 ## Structure
